@@ -62,7 +62,7 @@ def ai_engine(board,player):
     global moves
     global board1
     board1 = board
-    if hod==8:
+    if hod==9:
         score = check_score()
     else:
         moves = []
